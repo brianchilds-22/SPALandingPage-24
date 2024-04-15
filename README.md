@@ -1,3 +1,3 @@
 # SPALandingPage-24
 
-## Fully Responsive SPA
+## Fully Responsive SPA Using react and Tailwind
