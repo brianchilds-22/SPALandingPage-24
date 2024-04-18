@@ -25,8 +25,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://github.com/brianchilds-22/SPALandingPage-24
-      # ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
