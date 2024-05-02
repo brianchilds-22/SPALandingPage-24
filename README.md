@@ -63,4 +63,4 @@ npm run dev
 
 [brainwave Video] (https://www.awesomescreenshot.com/video/27300284?key=b91dc66fecb90c982fd67af0e2a70867)
 
-![Screenshot](./dist/assets/Brainwave.png)
+![BrainwaveScreenshot](./dist/assets/Brainwave.png)
