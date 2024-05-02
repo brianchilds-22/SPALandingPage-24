@@ -9,23 +9,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-# SPA Landing Page
-
-This template provides a minimal setup to get a single-page application (SPA) landing page working with React in Vite, along with hot module replacement (HMR) and ESLint rules.
-
-## Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Development](#development)
-  - [Build](#build)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## About
 
 This project is a simple landing page built using React and Vite, aimed at providing a quick and efficient setup for developing SPAs.
@@ -79,3 +62,5 @@ npm run dev
 ```
 
 [brainwave Video] (https://www.awesomescreenshot.com/video/27300284?key=b91dc66fecb90c982fd67af0e2a70867)
+
+![Screenshot](./dist/assets/4-small-Dl1zRJyK.png)
